@@ -1,0 +1,28 @@
+name: J. Tai
+favicon: null
+layout_spectrum: 0.5052731104660779
+typography_spectrum: 0.9871139598544687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6660051504150033
+  lightness: 0.2581703760661185
+  saturation: 0.8702766003552824
+  rhythmicContrast: 0.03507664427161217
+purpose: []
